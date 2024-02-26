@@ -1,0 +1,56 @@
+﻿
+Grasshopper Display - Addon for Grasshopper | Grasshopper Docs
+Community documentation for Grasshopper add-ons & plugins
+Download
+Grasshopper Display
+SYSTEM COMPONENTS. Version 1.0.0007.
+Released on 2022-Mar-08.
+Provides 36 components.
+Created by David Rutten.
+Features 0 video tutorials.
+Component Index
+Grasshopper Display
+Colour
+Dimensions
+Preview
+Vector
+Dimensions
+Aligned Dimension (AlignDim)Create a distance annotation between two points
+Arc Dimension (ArcDim)Create an angle annotation based on an arc.
+Circular Dimension (CircleDim)Create an angle annotation projected to a circle.
+Angular Dimension (AngleDim)Create an angle annotation between points.
+Linear Dimension (LinearDim)Create a distance annotation between points, projected to a line.
+Line Dimension (LineDim)Create a distance annotation along a line.
+Marker Dimension (MarkDim)Create a text annotation at a point
+Angular Dimensions (Mesh) (AngleDimMesh)Create angle annotations for all mesh corners.
+Serial Dimension (SerialDim)Create a distance annotation between multiple points, projected to a line.
+Gradient Hatch (GHatch)Create a gradient hatch
+Make2DCreate a hidden line drawing from geometry
+Make2D Rhino View (M2D Rhino)Import a Rhino view for a Make2D solution
+Make2D Parallel View (M2D Parallel)Define a parallel view for a Make2D solution
+Make2D Perspective View (M2D Perspective)Define a perspective view for a Make2D solution
+Pattern Hatch (PHatch)Create a patterned hatch
+Colour
+Colour CMYK (CMYK)Create a colour from floating point {CMYK} channels.
+Colour HSL (HSL)Create a colour from floating point {HSL} channels.
+Colour HSV (HSV)Create a colour from floating point {HSV} channels.
+Colour L*ab (L*AB)Create a colour from floating point {CIE L*ab} channels.
+Colour LCH (LCH)Create a colour from floating point {CIE LCH} channels.
+Colour RGB (RGB)Create a colour from {RGB} channels.
+Colour RGB (f) (fRGB)Create a colour from floating point {RGB} channels.
+Split AHSL (AHSL)Split a colour into floating point {AHSL} channels
+Split AHSV (AHSV)Split a colour into floating point {AHSV} channels
+Split ARGB (ARGB)Split a colour into floating point {ARGB} channels.
+Colour XYZ (XYZ)Create a colour from floating point {XYZ} channels (CIE 1931 spec).
+Preview
+Symbol (Advanced) (SymAdv)Advanced symbol display properties
+Symbol (Simple) (SymSim)Simple symbol display properties
+Symbol Display (Symbol)Display symbols
+Create Material (Material)Create an OpenGL material.
+Cloud Display (Cloud)Draw a collection of points as a fuzzy cloud
+Dot Display (Dots)Draw a collection of coloured dots
+Vector
+Point List (Points)Displays details about lists of points
+Point Order (Order)Displays the order of a list of points
+Vector Display (VDis)Preview vectors in the viewport
+Vector Display Ex (VDisEx)Preview vectors in the viewport

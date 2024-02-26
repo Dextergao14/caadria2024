@@ -1,0 +1,67 @@
+Adjust Plane (PAdjust) : Adjust a plane to match a new normal direction
+Align Plane (Align) : Perform minimal rotation to align a plane with a guide vector
+Align Planes (Align) : Align planes by minimizing their serial rotation.
+Construct Plane (Pl) : Construct a plane from an origin point and {x}, {y} axes.
+Deconstruct Plane (DePlane) : Deconstruct a plane into its component parts.
+Flip Plane (PFlip) : Flip or swap the axes of a plane
+Plane 3Pt (Pl 3Pt) : Create a plane through three points.
+Plane Closest Point (CP) : Find the closest point on a plane.
+Plane Coordinates (PlCoord) : Get the coordinates of a point in a plane axis system.
+Plane Fit (PlFit) : Fit a plane through a set of points.
+Line + Line (LnLn) : Create a plane from two line segments.
+Line + Pt (LnPt) : Create a plane from a line and a point.
+Plane Normal (Pl) : Create a plane perpendicular to a vector.
+Plane Offset (Pl Offset) : Offset a plane.
+Plane Origin (Pl Origin) : Change the origin point of a plane
+Rotate Plane (PRot) : Perform plane rotation around plane z-axis
+XY Plane (XY) : World XY plane.
+XZ Plane (XZ) : World XZ plane.
+YZ Plane (YZ) : World YZ plane.
+Project Point (Project) : Project a point onto a collection of shapes
+Closest Point (CP) : Find closest point in a point collection.
+Closest Points (CPs) : Find closest points in a point collection.
+Construct Point (Pt) : Construct a point from {xyz} coordinates.
+Cull Duplicates (CullPt) : Cull points that are coincident within tolerance
+Deconstruct (pDecon) : Deconstruct a point into its component parts.
+Distance (Dist) : Compute Euclidean distance between two point coordinates.
+Numbers to Points (Num2Pt) : Convert a list of numbers to a list of points
+Barycentric (BCentric) : Create a point from barycentric {u,v,w} coordinates
+Point Cylindrical (Pt) : Create a point from cylindrical {angle,radius,elevation} coordinates.
+Point Groups (PGroups) : Create groups from nearby points
+Point Oriented (Pt) : Create a point from plane {u,v,w} coordinates.
+Point Polar (Pt) : Create a point from polar {phi,theta,offset} coordinates.
+To Polar (Polar) : Convert a 3D point to plane polar coordinates.
+Points to Numbers (Pt2Num) : Convert a list of points to a list of numbers
+Pull Point (Pull) : Pull a point to a variety of geometry.
+Vector XYZ (Vec) : Create a vector from {xyz} components.
+Deconstruct Vector (DeVec) : Deconstruct a vector into its component parts.
+Unit Vector (Unit) : Unitize vector.
+Unit X (X) : Unit vector parallel to the world {x} axis.
+Unit Y (Y) : Unit vector parallel to the world {y} axis.
+Unit Z (Z) : Unit vector parallel to the world {z} axis.
+Vector 2Pt (Vec2Pt) : Create a vector between two points.
+Amplitude (Amp) : Set the amplitude (length) of a vector.
+Cross Product (XProd) : Compute vector cross product.
+Dot Product (DProd) : Compute vector dot product.
+Vector Length (VLen) : Compute the length (amplitude) of a vector.
+Reverse (Rev) : Reverse a vector (multiply by -1).
+Rotate (VRot) : Rotate a vector around an axis.
+Break Field (BreakF) : Break a field into individual elements
+Line Charge (LCharge) : Create a field due to a line charge
+Point Charge (PCharge) : Create a field due to a point charge
+Spin Force (FSpin) : Create a field due to a spin force
+Vector Force (FVector) : Create a field due to a vector force
+Evaluate Field (EvF) : Evaluate a field at a point
+Tensor Display (FTensor) : Display the tensor vectors of a field section
+Direction Display (FDir) : Display the force directions of a field section
+Field Line (FLine) : Compute the field line through a certain point
+Scalar Display (FScalar) : Display the scalar values of a field section
+Perpendicular Display (FPerp) : Display the perpendicularity of a field through a section
+Merge Fields (MergeF) : Merge a collection of fields into one
+Hexagonal (HexGrid) : 2D grid with hexagonal cells
+Populate Geometry (PopGeo) : Populate generic geometry with points
+Populate 2D (Pop2D) : Populate a 2-Dimensional region with points
+Radial (RadGrid) : 2D radial grid
+Rectangular (RecGrid) : 2D grid with rectangular cells
+Square (SqGrid) : 2D grid with square cells
+Triangular (TriGrid) : 2D grid with triangular cells

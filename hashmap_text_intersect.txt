@@ -1,0 +1,48 @@
+Curve | Line (CLX) : Solve intersection events for a curve and a line.
+Curve | Plane (PCX) : Solve intersection events for a curve and a plane.
+Line | Line (LLX) : Solve intersection events for two lines.
+Line | Plane (PLX) : Solve intersection event for a line and a plane.
+Brep | Line (BLX) : Solve intersection events for a Brep and a line.
+Brep | Plane (Sec) : Solve intersection events for a Brep and a plane (otherwise known as section).
+Contour (ex) : (Contour)Create a set of Brep or Mesh contours
+Mesh | Ray (MeshRay) : Intersect a mesh with a semi-infinite ray
+Mesh | Plane (Sec) : Solve intersection events for a Mesh and a Plane (otherwise known as section).
+Surface | Line (SLX) : Solve intersection events for a surface and a line.
+IsoVist (IVist) : Compute an isovist sampling at a location
+IsoVist Ray (IVRay) : Compute a single isovist sample at a location
+Plane | Plane | Plane (3PX) : Solve the intersection events of three planes.
+Plane | Plane (PPX) : Solve the intersection event of two planes.
+Plane Region (PlReg) : Create a bounded region from intersecting planes.
+Solid Difference (SDiff) : Perform a solid difference on two Brep sets.
+Solid Intersection (SInt) : Perform a solid intersection on two Brep sets.
+Trim Solid (Trim) : Cut holes into a shape with a set of solid cutters.
+Solid Union (SUnion) : Perform a solid union on a set of Breps.
+Box Slits (Slits) : Add slits to a collection of intersecting boxes
+Boundary Volume (BVol) : Create a closed polysurface from boundary surfaces
+Region Difference (RDiff) : Difference between two sets of planar closed curves (regions)
+Region Intersection (RInt) : Intersection between two sets of planar closed curves (regions)
+Region Union (RUnion) : Union of a set of planar closed curves (regions)
+Mesh Difference (MDif) : Perform a solid difference on two sets of meshes
+Mesh Intersection (MInt) : Perform a solid intersection on a set of meshes
+Mesh Union (MUnion) : Perform a solid union on a set of meshes
+Mesh Split (MSplit) : Mesh Mesh split
+Region Slits (RSlits) : Add slits to a collection of intersecting planar regions
+Split Brep (Split) : Split one brep with another.
+Split Brep Multiple (SplitMul) : Split one brep with a bunch of others.
+Curve | Curve (CCX) : Solve intersection events for two curves.
+Curve | Self (CX) : Solve all self intersection events for a curve.
+Multiple Curves (MCX) : Solve intersection events for multiple curves.
+Brep | Curve (BCX) : Solve intersection events for a Brep and a curve.
+Brep | Brep (BBX) : Solve intersection events for two Breps.
+Collision Many|Many (ColMM) : Test for many|many collision between objects
+Collision One|Many (ColOM) : Test for one|many collision between objects
+Mesh | Curve (MCX) : Mesh Curve intersection
+Mesh | Mesh (MMX) : Mesh Mesh intersection
+Surface | Curve (SCX) : Solve intersection events for a surface and a curve.
+Surface Split (SrfSplit) : Split a surface with a bunch of curves.
+Split with Brep (Split) : Split a curve with a Brep.
+Split with Breps (Split) : Split a curve with multiple Breps.
+Trim with Brep (Trim) : Trim a curve with a Brep.
+Trim with Breps (Trim) : Trim a curve with multiple Breps.
+Trim with Regions (Trim) : Trim a curve with multiple regions.
+Trim with Region (Trim) : Trim a curve with a region.

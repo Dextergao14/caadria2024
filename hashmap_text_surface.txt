@@ -1,0 +1,77 @@
+Area Moments (AMoments) : Solve area moments for breps, meshes and planar closed curves.
+Box Properties (BoxProp) : Get some properties of a box
+Brep Closest Point (Brep CP) : Find the closest point on a brep
+Brep Edges (Edges) : Extract the edge curves of a brep.
+Point In Brep (BrepInc) : Test whether a point is inside a closed brep
+Point In Breps (BrepsInc) : Test whether a point is inside a collection of closed breps
+Brep Wireframe (Wires) : Extract the wireframe curves of a brep.
+Deconstruct Box (DeBox) : Deconstruct a box into its constituent parts.
+Deconstruct Brep (DeBrep) : Deconstruct a brep into its constituent parts.
+Evaluate Box (Box) : Evaluate a box in normalised {UVW} space.
+Evaluate Surface (EvalSrf) : Evaluate local surface properties at a {uv} coordinate.
+Shape In Brep (ShapeIn) : Tests whether a shape is inside a brep
+Surface Closest Point (Srf CP) : Find the closest point on a surface.
+Surface Curvature (Curvature) : Evaluate the surface curvature at a {uv} coordinate.
+Dimensions (Dim) : Get the approximate dimensions of a surface
+Is Planar (Planar) : Test whether a surface is planar
+Osculating Circles (Osc) : Calculate the principal osculating circles of a surface at a {uv} coordinate.
+Surface Points (SrfPt) : Get the control-points of a Nurbs Surface
+Principal Curvature (Curvature) : Evaluate the principal curvature of a surface at a {uv} coordinate.
+Point In Trim (TrimInc) : Test whether a {uv} coordinate is inside the trimmed portion of a surface
+Volume Moments (VMoments) : Solve volume properties for closed breps and meshes.
+Control Point Loft (CPLoft) : Create a loft through curve control points.
+Fit Loft (FitLoft) : Create a loft fitted through a set of curves.
+4Point Surface (Srf4Pt) : Create a surface connecting three or four corner points.
+Boundary Surfaces (Boundary) : Create planar surfaces from a collection of boundary edge curves.
+Edge Surface (EdgeSrf) : Create a surface from two, three or four edge curves.
+Extrude (Extr) : Extrude curves and surfaces along a vector.
+Extrude Along (ExtrCrv) : Extrude curves and surfaces along a curve.
+Extrude Linear (Extrude) : Extrude curves and surfaces along a straight path.
+Extrude Point (Extr) : Extrude curves and surfaces to a point.
+Fragment Patch (FPatch) : Create a fragmented patch from a polyline boundary
+Loft Options (Loft Opt) : Create loft options from atomic inputs
+Network Surface (NetSurf) : Create a surface from curve networks
+Pipe Variable (VPipe) : Create a pipe surface with variable radii around a rail curve.
+Surface From Points (SrfGrid) : Create a nurbs surface from a grid of points.
+Rail Revolution (RailRev) : Create a surface of revolution using a sweep rail.
+Revolution (RevSrf) : Create a surface of revolution.
+Ruled Surface (RuleSrf) : Create a surface between two curves.
+Sum Surface (SumSrf) : Create a sum surface from two edge curves.
+Sweep1 (Swp1) : Create a sweep surface with one rail curve.
+Sweep2 (Swp2) : Create a sweep surface with two rail curves.
+Convex Edges (EdgesCvx) : Select concave or convex brep edges.
+Edges from Directions (EdgesDir) : Select brep edges based on edge direction
+Edges from Length (EdgesLen) : Select brep edges based on length
+Edges from Linearity (EdgesLin) : Select brep edges based on linearity
+Edges from Points (EdgesPt) : Select brep edges based on point coincidence
+Edges from Faces (EdgesFaces) : Select all brep edges that delineate certain faces
+Fillet Edge (FilEdge) : Fillet some edges of a brep.
+Brep Join (Join) : Join a number of Breps together
+Cap Holes Ex (CapEx) : Cap as many holes as possible in a Brep.
+Cap Holes (Cap) : Cap all planar holes in a Brep.
+Copy Trim (Trim) : Copy UV trim data from one surface to another.
+Isotrim (SubSrf) : Extract an isoparametric subset of a surface.
+Merge Faces (FMerge) : Merge all adjacent co-planar faces in a brep
+Offset Surface (Offset) : Offset a surface by a fixed amount.
+Offset Surface Loose (Offset (L) : )Offset a surface by moving the control points.
+Divide Surface (SDivide) : Generate a grid of {uv} points on a surface.
+Surface Frames (SFrames) : Generate a grid of {uv} frames on a surface
+Bounding Box (BBox) : Solve oriented geometry bounding boxes.
+Box 2Pt (Box) : Create a box defined by two points.
+Box Rectangle (BoxRec) : Create a box defined by a rectangle and a height.
+Center Box (Box) : Create a box centered on a plane.
+Cylinder (Cyl) : Create a cylindrical surface.
+Domain Box (Box) : Create a box defined by a base plane and size domains.
+Plane Surface (PlaneSrf) : Create a plane surface
+Plane Through Shape (PxS) : Make a rectangular surface that is larger than a given shape.
+Quad Sphere (QSph) : Create a spherical brep made from quad nurbs patches.
+Sphere (Sph) : Create a spherical surface.
+Sphere 4Pt (Sph4Pt) : Create a spherical surface from 4 points.
+Sphere Fit (SFit) : Fit a sphere to a 3D collection of points
+Mesh from SubD (MeshSubD) : Get the approximation mesh of a SubD.
+SubD Control Polygon (SubDPoly) : Extract the control polygon from a SubD.
+SubD Edges (SubDEdges) : Extract all edge data from a SubD.
+SubD Edge Tags (SubDTags) : Set the edge tags of a SubD shape.
+SubD from Mesh (SubDMesh) : Create a SubD from a control mesh
+SubD Vertex Tags (SubDVTags) : Set the vertex tags of a SubD shape.
+SubD Vertices (SubDVerts) : Extract all vertex data from a SubD.

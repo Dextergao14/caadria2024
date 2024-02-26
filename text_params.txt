@@ -1,0 +1,34 @@
+﻿
+Grasshopper Params - Addon for Grasshopper | Grasshopper Docs
+Community documentation for Grasshopper add-ons & plugins
+Download
+Grasshopper Params
+SYSTEM COMPONENTS. Version 1.0.0007.
+Released on 2022-Mar-08.
+Provides 12 components.
+Created by David Rutten.
+Features 0 video tutorials.
+Component Index
+Grasshopper Params
+Input
+Util
+Input
+Atom Data (Atom)Get detailed information for an atom
+Import Image (IMG)Import image data from bmp, jpg or png files.
+Import 3DM (3DM)Import geometry into a RhinoDoc
+Import PDB (PDB)Import data from Protein Data Bank *.pdb files.
+Import Coordinates (Coords)Import point coordinates from generic text files.
+Object Details (ObjDet)Retrieve some details about referenced Rhino objects.
+Import SHP (SHP)Import data from GIS *.shp files.
+Util
+Context BakeGeometry for baking at the end of the GrasshopperPlayer command.
+Context PrintTextual data to print at the end of the GrasshopperPlayer command.
+Fitness Landscape (LScape)Display a 2.5D fitness landscape
+Data Input (Input)Read a bunch of data from a file.
+Data Output (Output)Write a bunch of data to a file.
+Site design © Robin Rodricks.
+Grasshopper Params and associated data © 2023  Robert McNeel & Associates.
+Rhinoceros and Grasshopper are registered trademarks of Robert McNeel & Associates.
+Hosted by GitHub
+Report an Issue  |
+Terms of Service

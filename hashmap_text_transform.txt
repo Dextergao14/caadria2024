@@ -1,0 +1,32 @@
+Map to Surface (Map Srf) : Map a curve onto a surface via control points.
+Bend Deform (Bend) : Deform a shape by bending it
+Box Morph (Morph) : Morph an object into a twisted box.
+Point Deform (PDeform) : Deform a shape by moving control-points individually
+Blend Box (BlendBox) : Create a twisted box between two surfaces.
+Surface Box (SBox) : Create a twisted box on a surface patch.
+Twisted Box (TBox) : Create a twisted box from corner points.
+Mirror Curve (Mirror) : Mirror a shape in a freeform curve.
+Mirror Surface (Mirror) : Mirror geometry in a freeform surface.
+Surface Morph (SrfMorph) : Morph geometry into surface UVW coordinates
+Spatial Deform (Deform) : Perform spatial deformation based on custom space syntax.
+Spatial Deform (custom) : (Deform)Perform spatial deformation based on custom space syntax.
+Box Mapping (BoxMap) : Transform geometry from one box into another.
+Camera Obscura (CO) : Camera Obscura (point mirror) transformation.
+Orient Direction (Orient) : Orient an object using directional constraints only.
+Project Along (ProjectA) : Project an object onto a plane along a direction.
+Rectangle Mapping (RecMap) : Transform geometry from one rectangle into another.
+Shear Angle (Shear) : Shear an object based on tilt angles.
+Triangle Mapping (TriMap) : Transform geometry from one triangle into another.
+MoveTranslate (move) : an object along a vector.
+Move Away From (MoveAway) : Translate (move) an object away from another object.
+Move To Plane (MoveToPlane) : Translate (move) an object onto a plane.
+Rotate 3D (Rot3D) : Rotate an object around a center point and an axis vector.
+Rotate Axis (RotAx) : Rotate an object around an axis.
+Rotate Direction (Rotate) : Rotate an object from one direction to another.
+Curve Array (ArrCurve) : Create an array of geometry along a curve.
+Linear Array (ArrLinear) : Create a linear array of geometry.
+Polar Array (ArrPolar) : Create a polar array of geometry.
+Rectangular Array (ArrRec) : Create a rectangular array of geometry.
+Kaleidoscope (KScope) : Apply a kaleidoscope transformation to an object.
+Compound (Comp) : Compound two transformations.
+Inverse Transform (Inverse) : Invert a transformation.

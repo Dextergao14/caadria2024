@@ -1,0 +1,82 @@
+﻿
+Grasshopper Mesh - Addon for Grasshopper | Grasshopper Docs
+Community documentation for Grasshopper add-ons & plugins
+Download
+Grasshopper Mesh
+SYSTEM COMPONENTS. Version 1.0.0007.
+Released on 2022-Mar-08.
+Provides 56 components.
+Created by David Rutten.
+Features 0 video tutorials.
+Component Index
+Grasshopper Mesh
+Analysis
+Primitive
+Triangulation
+Util
+Util
+ExposureSolve mesh exposure for a collection of energy rays and obstructions.
+Align Vertices (AlignVert)Align nearby vertices in a mesh
+Blur Mesh (MBlur)Blur the colours on a mesh
+Simple Mesh (SMesh)Create a mesh that represents a Brep as simply as possible
+Cull Faces (CullF)Cull faces from a mesh
+Cull Vertices (CullV)Cull vertices from a mesh
+Delete Faces (DeleteF)Delete faces from a mesh
+Delete Vertices (DeleteV)Delete vertices from a mesh
+Mesh Join (MJoin)Join a set of meshes into a single mesh
+Quadrangulate (Quad)Quadrangulate as many triangles as possible in a mesh
+Settings (Custom) (Custom Mesh Settings)Represents custom mesh settings.
+Settings (Speed) (Jagged)Represents 'Jagged & faster' mesh settings.
+Settings (Quality) (Smooth)Represents 'Smooth & slower' mesh settings.
+Mesh Shadow (MShadow)Compute the shadow outline for a mesh object
+Disjoint Mesh (Disjoint)Split a mesh into disjoint pieces.
+Mesh Split Plane (MSplit)Split a mesh with an infinite plane.
+Mesh Surface (Mesh UV)Create a Surface UV mesh
+Triangulate (Tri)Triangulate all quads in a mesh
+Unweld Mesh (Unweld)Unweld (split) creases in a mesh
+Weld Mesh (Weld)Weld (merge) creases in a mesh
+Occlusion (Occ)Solve occlusion for a collection of view rays and obstructions.
+Flip Mesh (FlipM)Flip the normal vectors of a mesh
+Unify Mesh (UniM)Unify the normals of a mesh
+Smooth Mesh (MSmooth)Smooth the vertices of a mesh
+Triangulation
+Delaunay Edges (Con)Delaunay connectivity
+Convex Hull (Hull)Compute the planar, convex hull for a collection of points
+Delaunay Mesh (Del)Delaunay triangulation
+Facet Dome (Facet)Create a facetted dome
+OcTree (OcT)A three-dimensional oc-tree structure
+VoronoiPlanar voronoi diagram for a collection of points
+Proximity 2D (Prox)Search for two-dimensional proximity within a point list
+Proximity 3D (Prox)Search for three-dimensional proximity within a point list
+QuadTree (QT)A two-dimensional quadtree structure
+Voronoi Groups (VorGroup)Compute a custom set of nested voronoi diagrams.
+SubstrateSubstrate algorithm inspired by Jared Tarbell (Complexification.net)
+Voronoi 3D (Voronoi³)Volumetric voronoi diagram for a collection of points
+Voronoi Cell (VCell)Compute a single 3D Voronoi cell
+Quad Remesh (QRMesh)Perform quad-remeshing on a shape.
+Quad Remesh Settings (QRSettings)Create setting for Quad-remeshing.
+Analysis
+Deconstruct Face (DeFace)Deconstruct a mesh face into its four corner indices.
+Deconstruct Mesh (DeMesh)Deconstruct a mesh into its component parts.
+Mesh Closest Point (MeshCP)Finds the closest point on a mesh
+Mesh Edges (MEdges)Get all the edges of a mesh
+Mesh Eval (MEval)Evaluate a mesh at a given parameter
+Face Boundaries (FaceB)Convert all mesh faces to polylines
+Face Circles (FaceC)Solve the circumscribed circles for all mesh faces
+Face Normals (FaceN)Extract the normals and center points of all faces in a mesh
+Mesh Inclusion (MInc)Test a point for Mesh inclusion
+Primitive
+Construct Mesh (ConMesh)Construct a mesh from vertices, faces and optional colours.
+Mesh Colours (MCol)Assign a repeating colour pattern to a mesh object.
+Mesh Spray (MSpray)Assign colours to a mesh based on spray points.
+Mesh Plane (MPlane)Create a mesh plane.
+Mesh Sphere (MSphere)Create a mesh sphere.
+Mesh Sphere Ex (MSphereEx)Create a mesh sphere from square patches.
+Mesh Quad (Quad)Create a mesh quad.
+Mesh Triangle (Triangle)Create a mesh triangle.
+Site design © Robin Rodricks.
+Grasshopper Mesh and associated data © 2023  Robert McNeel & Associates.
+Rhinoceros and Grasshopper are registered trademarks of Robert McNeel & Associates.
+Hosted by GitHub
+Report an Issue  |
+Terms of Service

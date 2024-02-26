@@ -1,0 +1,94 @@
+﻿
+Grasshopper Sets - Addon for Grasshopper | Grasshopper Docs
+Community documentation for Grasshopper add-ons & plugins
+Download
+Grasshopper Sets
+SYSTEM COMPONENTS. Version 1.0.0007.
+Released on 2022-Mar-08.
+Provides 66 components.
+Created by David Rutten.
+Features 0 video tutorials.
+Component Index
+Grasshopper Sets
+List
+Sequence
+Sets
+Text
+Tree
+List
+Combine Data (Combine)Combine non-null items out of several inputs
+DispatchDispatch the items in a list into two target lists.
+Insert Items (Ins)Insert a collection of items into a list.
+Null Item (Null)Test a data item for null or invalidity
+Item Index (Index)Retrieve the index of a certain item in a list.
+List Item (Item)Retrieve a specific item from a list.
+List Length (Lng)Measure the length of a list.
+Pick'n'Choose (P'n'C)Pick and choose from a set of input data.
+Replace Items (Replace)Replace certain items in a list.
+Shift List (Shift)Offset all items in a list.
+Sift Pattern (Sift)Sift elements in a list using a repeating index pattern.
+Sort List (Sort)Sort a list of numeric keys.
+Split List (Split)Split a list into separate parts.
+Sub List (SubSet)Extract a subset from a list.
+WeaveWeave a set of input data using a custom pattern.
+Text
+Text On Surface (TextSrf)Create a collection of textual symbols aligned on a surface.
+Text Case (Case)Change the CaSiNg of a piece of text
+Concatenate (Concat)Concatenate some fragments of text
+FormatFormat some data using placeholders and formatting tags
+Text Fragment (Fragment)Extract a fragment (subset) of some text
+Replace Text (Rep)Replace all occurences of a specific text fragment with another
+Sort Text (TSort)Sort a collection of text fragments
+Text Distance (TDist)Compute the Levenshtein distance between two fragments of text.
+Text Join (Join)Join a collection of text fragments into one
+Text Length (Len)Get the length (character count) of some text
+Match Text (TMatch)Match a text against a pattern
+Text Split (Split)Split some text into fragments using separators
+Characters (Chars)Break text into individual characters
+Text Trim (Trim)Remove whitespace characters from the start and end of some text.
+Sequence
+Char Sequence (CharSeq)Create a sequence of textual characters.
+Cull Index (Cull i)Cull (remove) indexed elements from a list.
+Cull Nth (CullN)Cull (remove) every Nth element in a list.
+Cull Pattern (Cull)Cull (remove) elements in a list using a repeating bit mask.
+Duplicate Data (Dup)Duplicate data a predefined number of times.
+Fibonacci (Fib)Creates a Fibonacci sequence.
+JitterRandomly shuffles a list of values.
+RandomGenerate a list of pseudo random numbers.
+Random Reduce (Reduce)Randomly remove N items from a list
+RangeCreate a range of numbers.
+Repeat Data (Repeat)Repeat a pattern until it reaches a certain length.
+Sequence (Seq)Generate a sequence of numbers
+SeriesCreate a series of numbers.
+Stack Data (Stack)Duplicate individual items in a list of data
+Sets
+Create Set (CSet)Creates the valid set from a list of items (a valid set only contains distinct elements).
+Find similar member (FSim)Find the most similar member in a set.
+DisjointTest whether two sets are disjoint.
+SubSetTest two sets for inclusion.
+Key/Value Search (KeySearch)Extract an item from a collection using a key-value match
+Delete Consecutive (DCon)Delete consecutive similar members in a set.
+Replace Members (Replace)Replace members in a set.
+Carthesian Product (CProd)Create the Carthesian product for two sets of identical cardinality.
+Set Difference (Difference)Create the difference of two sets (the collection of objects present in A but not in B).
+Set Intersection (Intersection)Creates the intersection of two sets (the collection of unique objects present in both sets).
+Member Index (MIndex)Find the occurences of a specific member in a set.
+Set Difference (S) (ExDiff)Create the symmetric difference of two sets (the collection of objects present in A or B but not both).
+Set Majority (Majority)Determine majority member presence amongst three sets.
+Set Union (SUnion)Creates the union of two sets (the collection of unique objects present in either set).
+Tree
+Construct Path (Path)Construct a data tree branch path.
+Deconstruct Path (DPath)Deconstruct a data tree path into individual integers.
+EntwineFlatten and combine a collection of data streams
+MergeMerge a bunch of data streams
+Relative Item (RelItem)Retrieve a relative item combo from a data tree
+Relative Items (RelItem2)Retrieve a relative item combo from two data trees
+Tree Branch (Branch)Retrieve a specific branch from a data tree.
+Tree Item (Item)Retrieve a specific item from a data tree.
+Tree Statistics (TStat)Get some statistics regarding a data tree.
+Site design © Robin Rodricks.
+Grasshopper Sets and associated data © 2023  Robert McNeel & Associates.
+Rhinoceros and Grasshopper are registered trademarks of Robert McNeel & Associates.
+Hosted by GitHub
+Report an Issue  |
+Terms of Service
